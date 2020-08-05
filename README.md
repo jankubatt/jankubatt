@@ -1,4 +1,4 @@
-![ket](https://github.com/jankubatt/jankubatt/blob/master/kat.jpg)
+![ket](https://github.com/jankubatt/jankubatt/blob/master/kat.png)
 
 <!--
 **jankubatt/jankubatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
