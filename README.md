@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jankubatt](https://github.com/jankubatt)or[https://jankubat-it.cz/](https://jankubat-it.cz/)
+- 👨‍💻 All of my projects are available at [https://github.com/jankubatt](https://github.com/jankubatt) or [https://jankubat-it.cz/](https://jankubat-it.cz/)
 
 - 📫 How to reach me **jankubat.1@seznam.cz, jankubat77@gmail.com, Tarvous#8839**
 
