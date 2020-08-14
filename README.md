@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Home Server**
 
-- 🌱 I’m currently learning **OOP again...**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jankubatt](https://github.com/jankubatt) or [https://jankubat-it.cz/](https://jankubat-it.cz/)
 
