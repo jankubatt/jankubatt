@@ -1,5 +1,4 @@
-![ket](https://github.com/jankubatt/jankubatt/blob/master/kat.png)
-![ket2](https://github.com/jankubatt/jankubatt/blob/master/catjam.gif)
+![ket](https://github.com/jankubatt/jankubatt/blob/master/kat.gif)
 
 <h1 align="center">Hi 👋, I'm Jan Kubat</h1>
 <h3 align="center">Software Developer, Tech Guy, Cat Lover</h3>
