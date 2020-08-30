@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jan Kubat</h1>
 <h3 align="center">Software Developer, Tech Guy, Cat Lover</h3>
 
-- 🔭 I’m currently working on **Home Server**
+- 🔭 I’m currently working on **Discord Bot**
 
 - 🌱 I’m currently learning **NodeJS**
 
