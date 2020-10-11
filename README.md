@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jan Kubat</h1>
 <h3 align="center">Software Developer, Tech Guy, Cat Lover</h3>
 
-- 🔭 I’m currently working on **Discord Bot**
-
-- 🌱 I’m currently learning **NodeJS**
+- 🔭 I’m currently working on **Financial Life**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jankubatt](https://github.com/jankubatt) or [https://jankubat-it.cz/](https://jankubat-it.cz/)
 
