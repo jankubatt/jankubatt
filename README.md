@@ -1,4 +1,5 @@
-![ket](https://github.com/jankubatt/jankubatt/blob/master/nyan.gif)
+
+![ket](https://github.com/jankubatt/jankubatt/blob/master/nyan.gif)![ket](https://github.com/jankubatt/jankubatt/blob/master/nyan.gif)
 
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">Developer from Czechia</h3>
