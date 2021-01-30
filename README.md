@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jan kubat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jan kubat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jan-kubat-409bb61aa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jan kubat" height="30" width="40" /></a>
 <a href="https://instagram.com/honzakubat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="honzakubat" height="30" width="40" /></a>
 <a href="https://discord.gg/Tarv#8839" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Tarv#8839" height="30" width="40" /></a>
 </p>
