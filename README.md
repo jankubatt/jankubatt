@@ -7,7 +7,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Kopce Českého Středohoří
+- 🔭 I’m currently working on interactiv mapping system
 
 - 🌱 I’m currently learning Web Development 
 
@@ -41,4 +41,4 @@
 
 <h2>My GitHub Stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jankubatt&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jankubatt&show_icons=true&bg_color=000000&text_color=ffffff&icon_color=ff0000&title_color=ff0000)
