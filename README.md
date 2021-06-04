@@ -1,4 +1,6 @@
-<h1> Hello World &lt;Devs&gt; <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+![banner](https://raw.githubusercontent.com/jankubatt/jankubatt/master/banner.png)
+
+<h1> Hello &lt;Devs&gt; <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 <div size='20px'> Hi! My name is Jan. Thank You for taking the time to view my GitHub Profile :smile: </div>
 
