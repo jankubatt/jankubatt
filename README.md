@@ -8,7 +8,7 @@
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jankubatt&title_color=ffffff&bg_color=000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankubatt&title_color=ffffff&bg_color=000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jankubatt&title_color=ffffff&bg_color=000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankubatt&title_color=ffffff&bg_color=000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
 
