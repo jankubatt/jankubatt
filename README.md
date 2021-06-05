@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/jankubatt/jankubatt/master/banner.png)
+![banner](https://raw.githubusercontent.com/jankubatt/jankubatt/master/top_banner.png)
 
 <h1> Hello &lt;Devs&gt; <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
